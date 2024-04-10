@@ -1,0 +1,25 @@
+
+.article-action-button {
+    display:flex;
+}
+
+.button-space {
+    margin-right: 10px;
+    
+}
+
+button.btn.btn-primary {
+    margin-top: 10px;
+}
+
+button.btn.btn-danger {
+    margin-top: 10px;
+}
+
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold ;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
