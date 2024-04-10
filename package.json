@@ -1,0 +1,19 @@
+{
+  "name": "new-app-node.js---postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mustache-express": "^1.3.2",
+    "pg-promise": "^11.6.0"
+  }
+}
